@@ -38,4 +38,6 @@ In practice, I found these three tips are important.
 - Copy and paste the entire error message and your code while asking for help. It saves reader's time and help you out quicker. 
 - Explain what you’ve already tried to do to solve your problem. This tells people you’ve already put in some work to figure things out on your own.
 
-**Note: This entire article inspired by Book written by Al Sweigart, _Automate Boring Stuff with Python_**
+**Note: This entire article inspired by Book written by [Al Sweigart, _Automate Boring Stuff with Python](#https://automatetheboringstuff.com/2e/chapter1/)_**
+
+
