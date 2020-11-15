@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Chapter1 Python Basics
+
+The first computer was built by famed mathematician Charles Babbage, called Analytic Engine. Sounds familiar huh? What would a computer called "Analytic" if it can't work on calculation.
+
+
 
 You can use the [editor on GitHub](https://github.com/kailichou/chapter1-automate-boring-stuff/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
